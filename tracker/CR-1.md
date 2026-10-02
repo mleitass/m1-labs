@@ -42,7 +42,7 @@ Iesniegumos bieži ir nepareizi personas kodi. Sistēmai jāpārbauda, vai perso
 | | | |
 | | | |
 
-## Ārpus apjoma (out of scope)
+## Ārpus tvēruma (out of scope)
 
 - 
 
